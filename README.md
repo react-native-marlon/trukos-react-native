@@ -1,0 +1,1 @@
+# trukos-react-native
